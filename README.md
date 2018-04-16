@@ -1,1 +1,1 @@
-# skyfocus.github.com
+# skyfocus.github.io
